@@ -2,7 +2,7 @@ import Item from "../../components/item/Item"
 
 function Home() {
 
-    var list = [1, 2]
+    var list = [1, 2, 3]
 
     return (
         <div className="d-flex">
