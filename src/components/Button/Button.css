@@ -1,0 +1,8 @@
+.btn-categoria {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    border-radius: 10%;
+}
