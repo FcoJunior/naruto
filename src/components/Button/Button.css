@@ -1,8 +1,13 @@
 .btn-categoria {
+    background-color: white;
     display: flex;
     flex-direction: column;
+    margin: 35px 10px;
     padding: 16px;
     text-align: center;
-    border: 1px solid #eee;
-    border-radius: 10%;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: medium;
+    border: 3px solid #eee;
+    border-radius: 12%;
 }

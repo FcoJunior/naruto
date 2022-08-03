@@ -8,7 +8,7 @@ function Home() {
     
     return (
         <div className="home">
-            <Menu />
+            <Menu titulo="Menu" />
             <Buttons />
             <div className="d-flex">
                 {

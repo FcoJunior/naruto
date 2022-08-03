@@ -13,10 +13,10 @@ function Button(props: ButtonProps) {
     }
 
     return (
-        <div className="btn-categoria" onClick={aplicarFiltro}>
+        <button className="btn-categoria" onClick={aplicarFiltro}>
             <img src={props.icon}/>
             <span>{props.nome}</span>
-        </div>
+        </button>
     )
 }
 

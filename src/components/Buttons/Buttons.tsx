@@ -13,7 +13,11 @@ function Buttons() {
     var categorias = [
         { nome: 'Todos', icon: ImgTodos },
         { nome: 'Carnes', icon: ImgCarnes },
-        { nome: 'Massas', icon: ImgMassas }
+        { nome: 'Massas', icon: ImgMassas },
+        { nome: 'Sushi', icon: ImgSushi },
+        { nome: 'Saladas', icon: ImgSaladas },
+        { nome: 'Sobremesas', icon: ImgSobremesas },
+        { nome: 'Bebidas', icon: ImgBebidas },
     ]
 
     var showDetail = () => {
