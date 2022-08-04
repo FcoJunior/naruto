@@ -14,7 +14,7 @@ function Button(props: ButtonProps) {
 
     return (
         <button className="btn-categoria" onClick={aplicarFiltro}>
-            <img src={props.icon}/>
+            <img className="icon" src={props.icon}/>
             <span>{props.nome}</span>
         </button>
     )

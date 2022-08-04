@@ -1,0 +1,40 @@
+
+h1{
+    margin: 10px 50px;
+    font-family: Arial Black, sans-serif;
+}
+
+.botaoP{
+    background-color: rgba(0, 0, 0, 50);
+    border-radius: 15%;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 15px;
+    margin-left: 1120px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botaoC{
+    background-color: rgba(0, 0, 0, 50);
+    border-radius: 15%;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 15px;
+    margin-left: 20px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botaoP:hover{
+    background-color: greenyellow;
+    color: white;
+}
+
+.botaoC:hover{
+    background-color: greenyellow;
+    color: white;
+}
+

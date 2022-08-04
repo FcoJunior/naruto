@@ -2,7 +2,7 @@
     background-color: white;
     display: flex;
     flex-direction: column;
-    margin: 35px 10px;
+    margin: 35px 13px;
     padding: 16px;
     text-align: center;
     align-items: center;
@@ -10,4 +10,16 @@
     font-size: medium;
     border: 3px solid #eee;
     border-radius: 12%;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.btn-categoria:hover{
+    background-color: greenyellow;
+    color: white;
+}
+
+.icon{
+    width: 28px;
+    margin: 8px 2px 15px 2px;
 }
